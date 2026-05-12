@@ -1,5 +1,7 @@
 .DS_Store
 
-# Local scrape output — not upstream contributions
+# Local scrape output + scripts — not upstream contributions
 design-md-styles/
 design-md/*/DESIGN.md
+scrape-*.py
+scrape-*.sh
