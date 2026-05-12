@@ -1,1 +1,5 @@
 .DS_Store
+
+# Local scrape output — not upstream contributions
+design-md-styles/
+design-md/*/DESIGN.md
